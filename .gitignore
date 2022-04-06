@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/First Mobile Game/Library
+/Voxel Sandbox Game/Library
+/Voxel Sandbox Game/Temp
+/Voxel Sandbox Game/obj/Debug
+/First Mobile Game/obj/Debug
+/First Mobile Game/Logs
+/Voxel Sandbox Game/Logs
