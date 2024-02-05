@@ -33,7 +33,7 @@ The Voxel Sandbox Game is a creative playground where players can unleash their 
 - Android Studio
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/AndreiE91/My_Projects`
+1. Clone the repository: `git clone https://github.com/AndreiE91/My_Projects.git`
 2. Open the projects in Unity.
 
 ## Contributing
