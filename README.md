@@ -5,7 +5,7 @@
 Welcome to the GitHub repository for "Lacteea" and the Voxel Sandbox Game! This repository contains the source code and assets for both games, developed using Unity with C#.
 
 ### Lacteea
-"Lacteea" is a tower defemse styled mobile game where players are stranded in a mysterious galaxy filled with unique treasures, creatures, and challenges. Embark on an mission to defend the mothership from the enemy waves until it is done repairing and can safely leave.
+"Lacteea" is a tower defense styled mobile game where players are stranded in a mysterious galaxy filled with unique treasures, creatures, and challenges. Embark on a mission to defend the mothership from the enemy waves until it is done repairing and can safely leave.
 
 ### Voxel Sandbox Game
 The Voxel Sandbox Game is a creative playground where players can unleash their imagination and build anything they desire with voxel-based building mechanics. Create landscapes, structures, and immersive worlds in this open-ended sandbox experience.
@@ -24,6 +24,21 @@ The Voxel Sandbox Game is a creative playground where players can unleash their 
 - Experiment with different blocks and textures.
 - Explore a randomly generated world based on a given input seed.
 - Infinite possibilities for creativity and exploration.
+
+## Images
+
+### Lacteea Gameplay
+![Lacteea Gameplay 1](/images/Lacteea_Gameplay1.jpeg)
+![Lacteea Gameplay 2](/images/Lacteea_Gameplay2.jpeg)
+
+### Lacteea How To Play
+![Lacteea How To Play](/images/Lacteea_HowToPlay.jpeg)
+
+### Lacteea Main Menu
+![Lacteea Main Menu](/images/Lacteea_MainMenu.jpeg)
+
+### Voxel Sandbox
+![Voxel Sandbox](/images/VoxelSandbox.jpg)
 
 ## Getting Started
 
@@ -50,4 +65,3 @@ Contributions are welcome! If you'd like to contribute to the development of "La
 ## Contact
 
 For any inquiries or support regarding the games, please contact eminoviciandrei777@yahoo.com.
-
